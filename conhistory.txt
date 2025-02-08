@@ -44,3 +44,5 @@ menu_servers
 /com_protocolname NZP-REBOOT-WEB
 menu_servers
 /net_masterextra1
+connect localhost:27950
+/com_protocolname NZP-REBOOT-WEB
