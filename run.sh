@@ -1,1 +1,1 @@
-exec ./fteqw-sv64 -dedicated 2 -game nzp -basedir "C:\Users\User\Documents\nzpgame" +exec sv.cfg +map nzp_warehouse2 +sv_public 1
+./fteqw-sv64 -dedicated 2 -game nzp -basedir "C:\Users\User\Documents\nzpgame" +exec sv.cfg +map nzp_warehouse2 +sv_public 1
