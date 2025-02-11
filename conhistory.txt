@@ -46,3 +46,138 @@ menu_servers
 /net_masterextra1
 connect localhost:27950
 /com_protocolname NZP-REBOOT-WEB
+map unnamed
+restart
+ban restart
+restart
+map 4all
+map unnamed
+map 4all
+/map unnamed 
+vid_restart
+restart
+map 4all
+/map unnamed 
+map 4alll
+map 4all; map unnamed
+restart
+map 4all
+map unnamed
+map 4all
+map unnamed
+map unnamed
+map unnamed
+map unnamed
+map 4all
+map unnamed
+s]`
+map unnamed
+map unnamed
+map unnamed
+pause
+map unnamed
+restart
+restart
+god
+god
+map unnamed
+map unnamed
+noclip
+/map unnamed 
+/map unnamed 
+/map unnamed 
+pause
+/map unnamed 
+/map unnamed 
+/map unnamed 
+/map unnamed 
+/map unnamed 
+/map unnamed 
+/map unnamed 
+/map unnamed 
+/map unnamed 
+/map unnamed 
+/map unnamed 
+/map unnamed 
+/map unnamed 
+/map unnamed 
+RESTART
+restart
+restart
+restart
+restart
+/waypoint_mode 
+/waypoint_mode  1
+restart
+god
+/waypoint_mode  0
+restart
+god
+restart
+impulse 22
+impulse 22
+impulse 22
+impulse 22
+impulse 22
+impulse 22
+impulse 22
+god
+/waypoint_mode  1
+
+restart
+restart
+restart
+/waypoint_mode   0
+restart
+
+restart
+restart
+restart
+/map unnamed 
+/map unnamed 
+restart
+god
+give 50
+give 50
+spawnperk
+addperk
+/waypoint_mode  1
+restart
+
+r`
+
+/waypoint_mode 
+restart
+noclip
+noclip
+restart
+restart
+
+=
+restart
+/waypoint_mode  0
+god
+give ai_zombie
+/waypoint_mode  1
+restaret
+restart
+/waypoint_mode  0
+restart
+restart
+sv_cheats 1
+noclip
+noclip
+noclip
+restart
+god
+noclip
+noclip
+/waypoint_mode  1
+restart
+/waypoint_mode  0
+restart
+god
+restart
+restart
+restart
+restart
