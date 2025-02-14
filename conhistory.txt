@@ -1,182 +1,39 @@
-menu_servers
-/connect ws://169.150.218.39:46034
-/connect 169.150.218.39:46034
-/connect 127.0.0.1:46034
-/connect 127.0.0.1:46034
-connect localhost
-connect 69.69.69.69
-connect localhost
-connect localhost:41312
-connect localhost:27500
-con_protocolname
-/com_protocolname
-/com_protocolname NZP-REBOOT-WEB
-maxplayers 8
-sv_allowchatplugins
-sv_enablechatplugins 1
-sv_enablechatplugins 1
-sv_enablechatplugins 1
-bind LCTRL "say 8p"
-sv_public
-serverinfo
-maxclients 8
-/listskins 
-sv_port_tcp
-sv_port_tcp
-sv_port_tcp 27500
-sv_port_tcp
-sv_port_tcp 27950
-restart
-pausable
-pause
-
-sv_port_tcp
-maxclients 8
-maxplayers 8
-sv_port_tcp 27500
-sv_master1
-sv_master2
-sv_master3
-/sv_master1
-/net_masterextra1 
-com_protocolname
-menu_servers
-/com_protocolname NZP-REBOOT-WEB
-menu_servers
-/net_masterextra1
-connect localhost:27950
-/com_protocolname NZP-REBOOT-WEB
-map unnamed
-restart
-ban restart
-restart
-map 4all
-map unnamed
-map 4all
-/map unnamed 
-vid_restart
-restart
-map 4all
-/map unnamed 
-map 4alll
-map 4all; map unnamed
-restart
-map 4all
-map unnamed
-map 4all
-map unnamed
-map unnamed
-map unnamed
-map unnamed
-map 4all
-map unnamed
-s]`
-map unnamed
-map unnamed
-map unnamed
-pause
-map unnamed
-restart
-restart
-god
 god
 map unnamed
+reload
 map unnamed
-noclip
-/map unnamed 
-/map unnamed 
-/map unnamed 
-pause
-/map unnamed 
-/map unnamed 
-/map unnamed 
-/map unnamed 
-/map unnamed 
-/map unnamed 
-/map unnamed 
-/map unnamed 
-/map unnamed 
-/map unnamed 
-/map unnamed 
-/map unnamed 
-/map unnamed 
-/map unnamed 
-RESTART
-restart
-restart
-restart
-restart
-/waypoint_mode 
 /waypoint_mode  1
-restart
-god
 /waypoint_mode  0
+/restart
+god
+noclip
 restart
 god
-restart
-impulse 22
-impulse 22
-impulse 22
-impulse 22
-impulse 22
-impulse 22
-impulse 22
-god
-/waypoint_mode  1
-
-restart
-restart
-restart
-/waypoint_mode   0
-restart
-
-restart
-restart
-restart
-/map unnamed 
-/map unnamed 
+noclip
 restart
 god
+noclip
 give 50
-give 50
-spawnperk
-addperk
-/waypoint_mode  1
-restart
-
-r`
-
-/waypoint_mode 
-restart
-noclip
-noclip
-restart
-restart
-
-=
-restart
-/waypoint_mode  0
-god
-give ai_zombie
-/waypoint_mode  1
-restaret
-restart
-/waypoint_mode  0
-restart
-restart
-sv_cheats 1
-noclip
-noclip
 noclip
 restart
 god
 noclip
 noclip
-/waypoint_mode  1
+noclip
 restart
-/waypoint_mode  0
+god; noclip
+restart
+noclip
+god
+god
+god
 restart
 god
+restart
+restart
+god
+restart
+restart
 restart
 restart
 restart

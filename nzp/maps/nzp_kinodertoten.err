@@ -1,0 +1,27 @@
+hlcsg: Error: Could not open wad file wads\4all.wad
+
+hlcsg: Error: Could not find WAD file
+Description: The compile tools could not locate a wad file that the map was referencing.
+Howto Fix: Make sure the wad's listed in the level editor actually all exist
+
+
+hlcsg: Error: Could not open wad file wads\b1oodv4.wad
+
+hlcsg: Error: Could not open wad file wads\chalk_drawings.wad
+
+hlcsg: Error: Could not open wad file wads\Dung3on.wad
+
+hlcsg: Error: Could not open wad file wads\Ju[s]tice_null2.wad
+
+hlcsg: Error: Could not open wad file wads\Loop.wad
+
+hlcsg: Error: Could not open wad file wads\nzphlwad.wad
+
+hlcsg: Error: Could not open wad file wads\perks.wad
+
+hlcsg: Error: Could not open wad file wads\verruckt.wad
+
+hlcsg: Error: Could not open wad file wads\warehouse.wad
+
+hlcsg: Error: Could not open wad file wads\zhlt.wad
+

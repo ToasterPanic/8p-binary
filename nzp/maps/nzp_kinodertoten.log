@@ -1,0 +1,72 @@
+hlcsg v3.4 VL34 64-bit (Nov 21 2023)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (vluzacn@163.com)
+-----  BEGIN  hlcsg -----
+Command line: C:\Users\User\AppData\Roaming\TrenchBroom\games\nzp\hlcsg.exe C:\Users\User\Documents\nzpgame\nzp\maps/nzp_kinodertoten -wadinclude . 
+Arguments: C:\Users\User\Documents\nzpgame\nzp\maps/nzp_kinodertoten -wadinclude . 
+Entering C:\Users\User\Documents\nzpgame\nzp\maps\nzp_kinodertoten.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [      12 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+reset logfile         [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 33554432 ] [ 33554432 ]
+max lighting memory   [ 50331648 ] [ 50331648 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [     off ] [     off ]
+clip hull type        [  simple ] [  simple ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+wad configuration file[    None ] [    None ]
+wad.cfg group name    [    None ] [    None ]
+nullfile              [    None ] [    None ]
+nullify trigger       [      on ] [      on ]
+min surface area      [   0.000 ] [   0.000 ]
+brush union threshold [   0.000 ] [   0.000 ]
+map scaling           [    None ] [    None ]
+light name optimize   [      on ] [      on ]
+convert game_text     [      on ] [      on ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+[.]
+
+CreateBrush:
+ (0.14 seconds)
+CSGBrush:
+ (0.71 seconds)
+
+Error: Could not open wad file wads\4all.wad
+Error: Could not find WAD file
+Description: The compile tools could not locate a wad file that the map was referencing.
+Howto Fix: Make sure the wad's listed in the level editor actually all exist
+
+Error: Could not open wad file wads\b1oodv4.wad
+Error: Could not open wad file wads\chalk_drawings.wad
+Error: Could not open wad file wads\Dung3on.wad
+Error: Could not open wad file wads\Ju[s]tice_null2.wad
+Error: Could not open wad file wads\Loop.wad
+Error: Could not open wad file wads\nzphlwad.wad
+Error: Could not open wad file wads\perks.wad
+Error: Could not open wad file wads\verruckt.wad
+Error: Could not open wad file wads\warehouse.wad
+Error: Could not open wad file wads\zhlt.wad
+
+-----   END   hlcsg -----
+
+
+
