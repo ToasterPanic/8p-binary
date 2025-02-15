@@ -38,3 +38,40 @@ restart
 restart
 restart
 restart
+name ToasterPanic
+restart
+god
+give 50
+give 56
+give 57
+give 50
+give 40
+give 41
+give 42
+give 50
+give 57
+RESTART
+restart
+god
+/map tp_den_dodsdomte 
+god
+restart
+god
+restart
+god
+addmoney
+noclip
+give 51
+noclip
+restart
+/waypoint_mode  1
+restart
+restart
+restart
+/waypoint_mode  0
+restart
+godf
+god
+give 51
+give 52
+net_mtu
